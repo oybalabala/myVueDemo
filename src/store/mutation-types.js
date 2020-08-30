@@ -1,0 +1,5 @@
+export const ADD_LIST = 'addList'
+export const DELETE_ITEM = 'deleteItem'
+export const DELETE_QUERY_RESULT = 'deleteQueryResult'
+export const EDIT_DATA = 'editData'
+export const WHETHER_IT_HAS_DUPLICATE_ID = 'WhetherItHasDuplicateId'
